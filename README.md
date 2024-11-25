@@ -1,4 +1,4 @@
-ESERVACIÓN DE HABITACIONES EN UN HOTEL
+RESERVACIÓN DE HABITACIONES EN UN HOTEL
 El dueño de un hotel le pide a usted desarrollar un programa para consultar sobre 
 las piezas disponibles y reservar piezas de su hotel.
 El hotel posee tres tipos de piezas: simple, doble y matrimonial, y dos tipos de 
